@@ -1,0 +1,13 @@
+# Kullanıcı verileri (yüklenen videolar, ses kayıtları, dışa aktarılan videolar)
+projeler/
+
+# Python
+__pycache__/
+*.pyc
+
+# Yarım kalmış ara dosyalar
+*.tmp.wav
+
+# Düzenleyici ayarları
+.vscode/
+.idea/
